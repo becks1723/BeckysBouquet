@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477676340377",
+    "project_id": "fire-flower",
+    "storage_bucket": "fire-flower.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477676340377:android:f285b6614832bdb64b2408",
+        "android_client_info": {
+          "package_name": "com.example.flutter_flower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477676340377-vf6nltlinnl6tmq95btd247qrd76ioj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAU8ODUSRR3ixONFhDvzV2U_TEyCxICc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477676340377-vf6nltlinnl6tmq95btd247qrd76ioj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
